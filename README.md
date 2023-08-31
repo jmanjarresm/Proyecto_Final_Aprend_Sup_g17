@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.png" alt="Logo" width="100" height="100">
+    <img src="docs/images/logo.png" alt="Logo" width="200" height="200">
   </a>
 </h1>
 
