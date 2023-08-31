@@ -31,18 +31,18 @@
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [About](#about)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Contributing](#contributing)
-- [Authors & contributors](#authors--contributors)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [Acerca de](#about)
+  - [Creado con](#built-with)
+- [Empezando](#getting-started)
+  - [prerrequisitos](#prerequisites)
+  - [Instalación](#installation)
+- [Usos](#usage)
+- [Hoja de Ruta](#roadmap)
+- [Soporte](#support)
+- [Contribuciones](#contributing)
+- [Autores](#authors--contributors)
+- [Licencia](#license)
+- [Agradecimientos](#acknowledgements)
 
 </details>
 
