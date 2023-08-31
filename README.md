@@ -35,7 +35,7 @@
   - [Creado con](#creado-con)
 - [Empezando](#empezando)
   - [Prerrequisitos](#prerrequisitos)
-  - [Instalación](#instalacion)
+  - [Instalación](#instalación)
 - [Usos](#usos)
 - [Hoja de Ruta](#hoja-de-ruta)
 - [Soporte](#soporte)
