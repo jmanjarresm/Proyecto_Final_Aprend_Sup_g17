@@ -34,7 +34,7 @@
 - [Acerca de](#about)
   - [Creado con](#built-with)
 - [Empezando](#getting-started)
-  - [prerrequisitos](#prerequisites)
+  - [Prerrequisitos](#prerequisites)
   - [Instalación](#installation)
 - [Usos](#usage)
 - [Hoja de Ruta](#roadmap)
@@ -48,7 +48,7 @@
 
 ---
 
-## About
+## Acerca de
 
 <table><tr><td>
 
@@ -74,30 +74,30 @@
 
 </td></tr></table>
 
-### Built With
+### Creado con
 
 > **[?]**
 > Please provide the technologies that are used in the project.
 
-## Getting Started
+## Empezando
 
-### Prerequisites
+### Prerrequisitos
 
 > **[?]**
 > What are the project requirements/dependencies?
 
-### Installation
+### Instalación
 
 > **[?]**
 > Describe how to install and get started with the project.
 
-## Usage
+## Usos
 
 > **[?]**
 > How does one go about using it?
 > Provide various use cases and code examples here.
 
-## Roadmap
+## Hoja de Ruta
 
 See the [open issues](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/issues) for a list of proposed features (and known issues).
 
@@ -105,7 +105,7 @@ See the [open issues](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g
 - [Top Bugs](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
 - [Newest Bugs](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
-## Support
+## Soporte
 
 > **[?]**
 > Provide additional ways to contact the project maintainer/maintainers.
@@ -116,27 +116,27 @@ Reach out to the maintainer at one of the following places:
 - Contact options listed on [this GitHub profile](https://github.com/jmanjarresm)
 
 
-## Contributing
+## Contribuciones
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
 
 
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
-## Authors & contributors
+## Autores
 
 The original setup of this repository is by [Juan Felipe](https://github.com/jmanjarresm).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/contributors).
 
 
-## License
+## Licencia
 
 This project is licensed under the **MIT license**.
 
 See [LICENSE](LICENSE) for more information.
 
-## Acknowledgements
+## Agradecimientos
 
 > **[?]**
 > If your work was funded by any organization or institution, acknowledge their support here.
