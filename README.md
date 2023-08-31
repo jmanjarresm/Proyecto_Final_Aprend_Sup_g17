@@ -31,9 +31,9 @@
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [Acerca de](#about)
-  - [Creado con](#built-with)
-- [Empezando](#getting-started)
+- [Acerca de](#acerca_de)
+  - [Creado con](#creado-con)
+- [Empezando](#empezando)
   - [Prerrequisitos](#prerequisites)
   - [Instalación](#installation)
 - [Usos](#usage)
