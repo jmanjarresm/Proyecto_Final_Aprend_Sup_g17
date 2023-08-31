@@ -24,7 +24,6 @@
 [![Project license](https://img.shields.io/github/license/jmanjarresm/Proyecto_Final_Aprend_Sup_g17.svg?style=flat-square)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-
 [![Propuesta Inicial](https://img.shields.io/badge/Propuesta-Inicial-green)](https://github.com/jmanjarresm)
 
 </div>
