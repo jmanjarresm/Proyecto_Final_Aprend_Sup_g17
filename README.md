@@ -8,7 +8,7 @@
 <div align="center">
   Descripción del sector automotor de Colombia
   <br />
-  <a href="#about"><strong>Explore the screenshots »</strong></a>
+  <a href="#about"><strong>Explorar screenshots »</strong></a>
   <br />
   <br />
   <a href="https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
@@ -24,7 +24,7 @@
 [![Project license](https://img.shields.io/github/license/jmanjarresm/Proyecto_Final_Aprend_Sup_g17.svg?style=flat-square)](LICENSE)
 
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by jmanjarresm](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-jmanjarresm-ff1414.svg?style=flat-square)](https://github.com/jmanjarresm)
+[![Propuesta Inicial](https://img.shields.io/badge/Propuesta-Inicial-green)](https://github.com/jmanjarresm)
 
 </div>
 
