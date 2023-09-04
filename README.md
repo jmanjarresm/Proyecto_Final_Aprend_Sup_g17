@@ -70,7 +70,7 @@ Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuale
 
 ### Creado con
 
-En este proyecto, hemos realizado análisis de datos y clustering utilizando Python como nuestra herramienta principal.
+En este proyecto, se ha realizado un análisis de datos y clustering utilizando Python como herramienta principal.
 
 #### Uso de Python
 
