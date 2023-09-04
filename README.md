@@ -70,8 +70,15 @@
 
 ### Creado con
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+>En este proyecto, hemos realizado análisis de datos y clustering utilizando Python como nuestra herramienta principal.
+
+#### Uso de Python
+
+>Para el desarrollo del proyecto se da uso a Python para todo el proceso de análisis y clustering de datos. Python nos proporciona una amplia gama de bibliotecas y herramientas para realizar análisis de datos de manera efectiva, lo que incluye la limpieza de datos, la visualización de resultados y la implementación de algoritmos de clustering.
+
+#### Agglomerative Hierarchical Clustering
+
+>Se selecciono el algoritmo de Agglomerative Hierarchical Clustering debido a su capacidad para manejar datos mixtos, lo que significa que puede lidiar con variables categóricas y numéricas en el conjunto de datos. Además, este algoritmo permite visualizar la jerarquía de grupos en un dendrograma, lo que facilita la identificación de patrones y la toma de decisiones basadas en datos.
 
 ## Empezando
 
