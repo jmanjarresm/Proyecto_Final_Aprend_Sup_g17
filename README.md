@@ -57,15 +57,15 @@
 > Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuales son las zonas de riesgo en las que más debe enfocar sus recursos para lograr reducir la tasa de homicidio en menores de edad de una manera más efectiva.
 
 <details>
-<summary>Screenshots</summary>
+<summary>Descripción de la información disponible</summary>
 <br>
 
 > **[?]**
 > Please provide your screenshots here.
 
-|                               Historico Número de Homicidios                               |                               Login Page                               |
+|                               Historico Número de Homicidios                               |                               Relación Domicilios por Grupo de Edad                              |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/Total de Homicidios a lo largo del Tiempo.png" title="Historico Número de Homicidios" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+| <img src="docs/images/Total de Homicidios a lo largo del Tiempo.png" title="Historico Número de Homicidios" width="100%"> | <img src="docs/images/Distribución del Número de Homicidios por Grupo de Edad.png" title="Relación Domicilios por Grupo de Edad" width="100%"> |
 
 </details>
 
