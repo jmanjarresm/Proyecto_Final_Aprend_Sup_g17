@@ -63,9 +63,9 @@
 > **[?]**
 > Please provide your screenshots here.
 
-|                               Home Page                               |                               Login Page                               |
+|                               Historico Número de Homicidios                               |                               Login Page                               |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="Total de Homicidios a lo largo del Tiempo.png" title="Historiasl Homicidios" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+| <img src="docs/images/Total de Homicidios a lo largo del Tiempo.png" title="Historico Número de Homicidios" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
 
 </details>
 
