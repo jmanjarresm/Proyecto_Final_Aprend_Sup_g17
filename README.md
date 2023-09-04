@@ -57,7 +57,7 @@
 > Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuales son las zonas de riesgo en las que más debe enfocar sus recursos para lograr reducir la tasa de homicidio en menores de edad de una manera más efectiva.
 
 <details>
-<summary>Descripción de la información disponible</summary>
+<summary>Resumen gráfico de la información disponible</summary>
 <br>
 
 |                               Historico Número de Homicidios                               |                               Relación Domicilios por Grupo de Edad                              |
