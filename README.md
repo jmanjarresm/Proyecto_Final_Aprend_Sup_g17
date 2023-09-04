@@ -52,7 +52,6 @@
 
 <table><tr><td>
 
-> **[?]**
 > Este proyecto busca resolver agrupar los homicidios que ocurren contra niños y adolescenetes a través del uso de clustering aplicando el algoritmo de Agglomerative Hierarchical Clustering.
 > A través de esto se puede lograr resolver el problema de en qué municipios deben enfocarse las acciones para buscar disminuir los homicidios contra estas victimas vulnerables con el objetivo de ubicar mejor los recursos para dar resolución a una problematica que afecta a los más vulnerables. 
 > Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuales son las zonas de riesgo en las que más debe enfocar sus recursos para lograr reducir la tasa de homicidio en menores de edad de una manera más efectiva.
