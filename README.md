@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.png" alt="Centro de Investigación de Címenes contra poblaciones vulnerables" width="720" height="290">
+    <img src="docs/images/logo.png" alt="Centro de Investigación de Crímenes contra poblaciones vulnerables" width="720" height="290">
   </a>
 </h1>
 
