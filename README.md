@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  Descripción del sector automotor de Colombia
+  Descripción de
   <br />
   <a href="#about"><strong>Explorar screenshots »</strong></a>
   <br />
