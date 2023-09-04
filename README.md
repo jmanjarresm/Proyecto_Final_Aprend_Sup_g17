@@ -66,7 +66,7 @@
 
 |                               Home Page                               |                               Login Page                               |
 | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
+| <img src="Total de Homicidios a lo largo del Tiempo.png" title="Historiasl Homicidios" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
 
 </details>
 
