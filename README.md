@@ -52,9 +52,9 @@
 
 <table><tr><td>
 
-> Este proyecto busca resolver agrupar los homicidios que ocurren contra niños y adolescenetes a través del uso de clustering aplicando el algoritmo de Agglomerative Hierarchical Clustering.
-> A través de esto se puede lograr resolver el problema de en qué municipios deben enfocarse las acciones para buscar disminuir los homicidios contra estas victimas vulnerables con el objetivo de ubicar mejor los recursos para dar resolución a una problematica que afecta a los más vulnerables. 
-> Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuales son las zonas de riesgo en las que más debe enfocar sus recursos para lograr reducir la tasa de homicidio en menores de edad de una manera más efectiva.
+Este proyecto busca resolver agrupar los homicidios que ocurren contra niños y adolescenetes a través del uso de clustering aplicando el algoritmo de Agglomerative Hierarchical Clustering.
+A través de esto se puede lograr resolver el problema de en qué municipios deben enfocarse las acciones para buscar disminuir los homicidios contra estas victimas vulnerables con el objetivo de ubicar mejor los recursos para dar resolución a una problematica que afecta a los más vulnerables. 
+Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuales son las zonas de riesgo en las que más debe enfocar sus recursos para lograr reducir la tasa de homicidio en menores de edad de una manera más efectiva.
 
 <details>
 <summary>Resumen gráfico de la información disponible</summary>
@@ -70,15 +70,15 @@
 
 ### Creado con
 
->En este proyecto, hemos realizado análisis de datos y clustering utilizando Python como nuestra herramienta principal.
+En este proyecto, hemos realizado análisis de datos y clustering utilizando Python como nuestra herramienta principal.
 
 #### Uso de Python
 
->Para el desarrollo del proyecto se da uso a Python para todo el proceso de análisis y clustering de datos. Python nos proporciona una amplia gama de bibliotecas y herramientas para realizar análisis de datos de manera efectiva, lo que incluye la limpieza de datos, la visualización de resultados y la implementación de algoritmos de clustering.
+Para el desarrollo del proyecto se da uso a Python para todo el proceso de análisis y clustering de datos. Python nos proporciona una amplia gama de bibliotecas y herramientas para realizar análisis de datos de manera efectiva, lo que incluye la limpieza de datos, la visualización de resultados y la implementación de algoritmos de clustering.
 
 #### Agglomerative Hierarchical Clustering
 
->Se selecciono el algoritmo de Agglomerative Hierarchical Clustering debido a su capacidad para manejar datos mixtos, lo que significa que puede lidiar con variables categóricas y numéricas en el conjunto de datos. Además, este algoritmo permite visualizar la jerarquía de grupos en un dendrograma, lo que facilita la identificación de patrones y la toma de decisiones basadas en datos.
+Se selecciono el algoritmo de Agglomerative Hierarchical Clustering debido a su capacidad para manejar datos mixtos, lo que significa que puede lidiar con variables categóricas y numéricas en el conjunto de datos. Además, este algoritmo permite visualizar la jerarquía de grupos en un dendrograma, lo que facilita la identificación de patrones y la toma de decisiones basadas en datos.
 
 ## Empezando
 
