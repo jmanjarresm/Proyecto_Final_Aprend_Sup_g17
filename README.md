@@ -8,7 +8,7 @@
 <div align="center">
   ¿En qué municipios deben enfocarse las acciones para buscar disminuir los homicidios contra niños, niñas y adolescentes? 
   <br />
-  <a href="#about"><strong>Explorar gráficas »</strong></a>
+  <a href="#acerca-de"><strong>Explorar gráficas »</strong></a>
   <br />
 </div>
 
