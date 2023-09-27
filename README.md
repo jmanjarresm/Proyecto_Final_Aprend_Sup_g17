@@ -45,7 +45,7 @@
 
 <table><tr><td>
 
-Este proyecto busca resolver agrupar los homicidios que ocurren contra niños y adolescentes a través del uso de clustering aplicando el algoritmo de Agglomerative Hierarchical Clustering.
+Este proyecto busca ayudar a determinar donde se deben enfocar las politicas públicas para solucionar el problema de los homicidios que ocurren contra niños y adolescentes a través del uso de análisis caliente.
 A través de esto se puede lograr resolver el problema de en qué municipios deben enfocarse las acciones para buscar disminuir los homicidios contra estas victimas vulnerables con el objetivo de ubicar mejor los recursos para dar resolución a una problemática que afecta a los más vulnerables. 
 Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuales son las zonas de riesgo en las que más debe enfocar sus recursos para lograr reducir la tasa de homicidio en menores de edad de una manera más efectiva.
 
@@ -63,21 +63,21 @@ Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuale
 
 ### Creado con
 
-En este proyecto, se ha realizado un análisis de datos y clustering utilizando Python como herramienta principal.
+En este proyecto, se ha realizado un análisis de datos y puntos calientes utilizando Python como herramienta principal.
 
 #### Uso de Python
 
-Para el desarrollo del proyecto se da uso a Python para todo el proceso de análisis y clustering de datos. Python nos proporciona una amplia gama de bibliotecas y herramientas para realizar análisis de datos de manera efectiva, lo que incluye la limpieza de datos, la visualización de resultados y la implementación de algoritmos de clustering.
+Para el desarrollo del proyecto se da uso a Python para todo el proceso de análisis de datos. Python nos proporciona una amplia gama de bibliotecas y herramientas para realizar análisis de datos de manera efectiva, lo que incluye la limpieza de datos, la visualización de resultados y la implementación de algoritmos de análisis de puntos calientes.
 
-#### Agglomerative Hierarchical Clustering
+#### Análisis de Puntos Calientes
 
-Se selecciono el algoritmo de Agglomerative Hierarchical Clustering debido a su capacidad para manejar datos mixtos, lo que significa que puede lidiar con variables categóricas y numéricas en el conjunto de datos. Además, este algoritmo permite visualizar la jerarquía de grupos en un dendrograma, lo que facilita la identificación de patrones y la toma de decisiones basadas en datos.
+Se selecciono el algoritmo de Análisis de Punto Caliente ya que permite a través de datos geograficos determinar puntos de enfoque. Además, este algoritmo permite visualizar el mapa del país con los diferentes puntos calientes, lo que facilita la identificación de patrones y la toma de decisiones basadas en datos.
 
 ## Empezando
 
 ### Prerrequisitos
 
-Para trabajar en este proyecto y ejecutar los análisis de datos y clustering, se deben cumplir con los siguientes prerrequisitos:
+Para trabajar en este proyecto y ejecutar los análisis de datos y puntos calientes, se deben cumplir con los siguientes prerrequisitos:
 
 Python: Tener Python instalado en el sistema. Este proyecto se ha desarrollado utilizando Python 3. Se puede descargar Python desde python.org.
 
@@ -85,12 +85,12 @@ Bibliotecas de Python: Instalar las bibliotecas de Python necesarias utilizando 
 
 pip install pandas matplotlib seaborn scikit-learn
 
-Estas bibliotecas son esenciales para el análisis de datos, visualización y clustering en Python.
+Estas bibliotecas son esenciales para el análisis de datos, visualización y análisis de puntos calientes en Python.
 
 ## Usos
 
 Este proyecto se podrá usar como fuente de toma de decisiones observando la información desarrollada en [Proyecto](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/blob/main/scripts/Proyecto.ipynb)
-En el que se podrá ver los resultados encontrados como consecuencia del clustering realizado.
+En el que se podrá ver los resultados encontrados como consecuencia del análisis de puntos calientes realizado.
 
 ## Autores
 
