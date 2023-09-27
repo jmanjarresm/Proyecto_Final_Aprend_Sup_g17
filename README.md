@@ -89,7 +89,7 @@ Estas bibliotecas son esenciales para el análisis de datos, visualización y cl
 
 ## Usos
 
-Este proyecto se podrá usar como fuente de toma de decisiones observando la información desarrollada en [Proyecto](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/blob/main/Proyecto.ipynb)
+Este proyecto se podrá usar como fuente de toma de decisiones observando la información desarrollada en [Proyecto](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/blob/main/scripts/Proyecto.ipynb)
 En el que se podrá ver los resultados encontrados como consecuencia del clustering realizado.
 
 ## Autores
