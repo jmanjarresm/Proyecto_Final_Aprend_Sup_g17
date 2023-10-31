@@ -1,12 +1,12 @@
 <h1 align="center">
-  <a href="https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17">
+  <a href="https://github.com/dfgomezc/aribnb_optimize_prices">
     <!-- Please provide path to your logo here -->
     <img src="docs/images/logo.png" alt="Centro de Investigación de Crímenes contra poblaciones vulnerables" width="720" height="480">
   </a>
 </h1>
 
 <div align="center">
-  ¿En qué municipios deben enfocarse las acciones para buscar disminuir los homicidios contra niños, niñas y adolescentes? 
+  ¿Cómo podemos predecir el precio de alquiler, teniendo en cuenta las características específicas de los alojamientos, utilizando análisis de datos históricos y técnicas de aprendizaje automático, para ayudar a los anfitriones de Airbnb a establecer precios competitivos y a su vez generar mayores ingresos?  
   <br />
   <a href="#acerca-de"><strong>Explorar gráficas »</strong></a>
   <br />
@@ -17,7 +17,7 @@
 
 [![Project license](https://img.shields.io/github/license/jmanjarresm/Proyecto_Final_Aprend_Sup_g17.svg?style=flat-square)](LICENSE)
 
-[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/dfgomezc/aribnb_optimize_prices/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![Propuesta Inicial](https://img.shields.io/badge/Propuesta-Inicial-green)](https://github.com/jmanjarresm)
 
 </div>
@@ -45,9 +45,7 @@
 
 <table><tr><td>
 
-Este proyecto busca ayudar a determinar donde se deben enfocar las politicas públicas para solucionar el problema de los homicidios que ocurren contra niños y adolescentes a través del uso de análisis caliente.
-A través de esto se puede lograr resolver el problema de en qué municipios deben enfocarse las acciones para buscar disminuir los homicidios contra estas victimas vulnerables con el objetivo de ubicar mejor los recursos para dar resolución a una problemática que afecta a los más vulnerables. 
-Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuales son las zonas de riesgo en las que más debe enfocar sus recursos para lograr reducir la tasa de homicidio en menores de edad de una manera más efectiva.
+Este proyecto busca ayudar a determinar que precio deben dar los anfitriones a su alojamiento en Airbnb con ubicación en New York para generar los mayores ingresos posibles. Airbnb es una startup que inicio su funcionamiento en 2008 en San Francisco, después de cambios en su servicio y de inversionistas, los servicios de alquilar espacios para hospedaje para quienes lo necesiten en 190 países en el mundo. La startup no tienen viviendas a su nombre es un intermediario entre los dueños y la personas que necesitan el servicio. Los precios de alquiler dependen de muchos factores entre los que se encuentran: ubicación, espacio, baños, beneficios para las personas que lo utilizaran, entre otros. De acuerdo lo anterior se encuentra la necesidad crucial de predecir el precio de alquiler adecuado en Airbnb, no solo para nuevos anfitriones, sino también para aquellos que ya ofrecen sus propiedades en la plataforma. La fijación del precio correcto es esencial para el éxito de una oferta en este mercado de alquileres. Los propietarios enfrentan el desafío de establecer un precio óptimo que afecta directamente su rentabilidad y la atracción de inquilinos. Se empleará análisis de datos históricos y técnicas de aprendizaje automático para desarrollar un modelo de predicción de precios que tome en cuenta características de los alojamientos de acuerdo con lo encontrado La herramienta resultante proporcionará recomendaciones sólidas para establecer precios competitivos y justos, permitiendo a los anfitriones atraer huéspedes y a los consumidores establecer un presupuesto confiable para su estancia en la ciudad. Esto contribuirá al crecimiento sostenible del mercado de Airbnb y al bienestar de ambas partes.  
 
 <details>
 <summary>Resumen gráfico de la información disponible</summary>
@@ -63,15 +61,15 @@ Es por lo tanto la razón de este proyecto el ayudar al país a determinar cuale
 
 ### Creado con
 
-En este proyecto, se ha realizado un análisis de datos y puntos calientes utilizando Python como herramienta principal.
+En este proyecto, se ha realizado un análisis de datos y Random Forest utilizando Python como herramienta principal.
 
 #### Uso de Python
 
 Para el desarrollo del proyecto se da uso a Python para todo el proceso de análisis de datos. Python nos proporciona una amplia gama de bibliotecas y herramientas para realizar análisis de datos de manera efectiva, lo que incluye la limpieza de datos, la visualización de resultados y la implementación de algoritmos de análisis de puntos calientes.
 
-#### Análisis de Puntos Calientes
+#### Random Forest
 
-Se selecciono el algoritmo de Análisis de Punto Caliente ya que permite a través de datos geograficos determinar puntos de enfoque. Además, este algoritmo permite visualizar el mapa del país con los diferentes puntos calientes, lo que facilita la identificación de patrones y la toma de decisiones basadas en datos.
+El algoritmo de Random Forest fue elegido debido a su capacidad para manejar grandes conjuntos de datos y variables predictoras, así como su habilidad para gestionar relaciones complejas entre las características del lugar y los precios de alojamiento. Su capacidad para generar modelos predictivos precisos y su resistencia al sobreajuste hacen de este algoritmo una opción ideal para el proyecto, permitiendo a los anfitriones establecer precios competitivos basados en las características específicas de su propiedad.
 
 ## Empezando
 
@@ -89,20 +87,19 @@ Estas bibliotecas son esenciales para el análisis de datos, visualización y an
 
 ## Usos
 
-Este proyecto se podrá usar como fuente de toma de decisiones observando la información desarrollada en [Proyecto](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/blob/main/scripts/Proyecto.ipynb)
+Este proyecto se podrá usar como fuente de toma de decisiones observando la información desarrollada en [Proyecto](https://github.com/dfgomezc/aribnb_optimize_prices/blob/main/DOCS/Mejorando_la_Competitividad_en_Airbnb-_Optimizaci%C3%B3n_de_Precios_de_Alquiler_en_Nueva_York_V4.pdf)
 En el que se podrá ver los resultados encontrados como consecuencia del análisis de puntos calientes realizado.
 
 ## Autores
 
-El Repositorio fue creado por [Juan Felipe](https://github.com/jmanjarresm).
+El Repositorio fue creado por [Diego Gomez](https://github.com/dfgomezc).
 
 El Proyecto fue realizado por:
-- Juan Antonio Ramirez
-- [Jeison David Diaz](https://github.com/jddiaze)
-- Juan Felipe Manjarres
-- Catalina García
+- Mayra Neisa
+- [Juan Felipe Manjarres](https://github.com/jmanjarresm)
+- Lina Marcela Ladino
 
-Para ver todos los autores ver la [página de contribuciones](https://github.com/jmanjarresm/Proyecto_Final_Aprend_Sup_g17/contributors).
+Para ver todos los autores ver la [página de contribuciones](https://github.com/dfgomezc/aribnb_optimize_prices/graphs/contributors).
 
 
 ## Licencia
